@@ -13,8 +13,9 @@ main {
 
 h2 {
   text-align: center;
-  font-size: 30px;
-  margin-top: 5px;
+  font-size: 25px;
+  margin-top: 10px;
+  margin-bottom: 30px;
 }
 
 .example-card {
@@ -52,6 +53,7 @@ mat-card-actions {
 }
 
 mat-card img {
-  height: 300px;
-  width: 300px;
+  height: 250px;
+  width: 250px;
+  border-radius: 5px;
 }
